@@ -5,10 +5,10 @@
 
 # Aim
 he aim of this project is to analyze weather-related variables that impact forest fires and forecast future fire risks based on historical weather data. This project involves merging two datasets, performing data cleaning and preprocessing, and finally using machine learning to predict forest fire risks.
-![alt text](IMG1.jpeg)
+
 # Abstract
 Forest fires pose significant threats to ecosystems, infrastructure, and human life. The key factors influencing forest fire risks include various meteorological conditions such as temperature, humidity, wind speed, and rain. In this project, we analyze these weather parameters to assess their impact on forest fire risks. Two datasets containing historical weather data were merged, cleaned, and analyzed. The project also includes predictive modeling using machine learning algorithms to forecast future fire risks based on the weather conditions. The output includes a merged dataset and predictive results that can be useful for fire risk management and prevention efforts.
-
+![alt text](IMG1.jpeg)
 # Methodology
 Data Preprocessing: The original datasets were cleaned to remove unnecessary columns, and they were merged into a single dataset. Missing values, if any, were handled appropriately.
 
@@ -47,8 +47,7 @@ ISI (Initial Spread Index)
 Predictive Results: After training the machine learning model, predictions for future fire risks were obtained. These results were evaluated based on metrics such as accuracy, precision, recall, and F1-score.
 
 The forecast results demonstrated that certain weather factors like high temperatures, low humidity, and wind speed significantly contribute to the spread of forest fires. Predictive accuracy was satisfactory for real-world fire risk assessment and prevention.
-![alt text](<WhatsApp Image 2024-10-20 at 9.43.45 AM.jpeg>)
-![alt text](IMG2.jpeg)
+![alt text](<WhatsApp Image 2024-10-20 at 9.43.45 AM.jpeg>)![alt text](<WhatsApp Image 2024-10-20 at 9.45.02 AM.jpeg>)
 # Conclusion
 The project successfully merged and analyzed two weather datasets related to forest fires, providing valuable insights into the impact of meteorological conditions on fire risks. The predictive model developed in this project can be used as a tool for forecasting
 future fire risks based on weather data, which could aid in fire management strategies.
